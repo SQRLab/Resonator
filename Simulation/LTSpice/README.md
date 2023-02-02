@@ -28,7 +28,13 @@ https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-sim
 ### Results running full wave and half wave rectifiers side by side 
 These are generally the types of waveforms outputed from AC-DC rectifiers. (I used an RF diode here used in another paul trap but is obsolete on Digikey as of now :joy:)
 
+![230202](https://user-images.githubusercontent.com/12982852/216302282-800715e9-9079-4f2b-988d-2a4acb4bd4dc.jpg)
 
 ### Running Simulations and Displaying Waveforms
 To run a simulation click the run button in the top bar (symbol is a running stick figure), click anywhere on the circuit to probe the voltage at that location and a waveform viewer should appear
+
+<img width="181" alt="image" src="https://user-images.githubusercontent.com/12982852/216302643-e533681d-3ab6-4b63-b5c0-65a5e0a38a4b.png">
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/12982852/216302942-e713243d-214f-48f3-8206-c753568adc2e.png">
+
 
