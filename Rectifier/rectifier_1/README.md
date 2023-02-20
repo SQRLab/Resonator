@@ -22,7 +22,17 @@ This is the schematic file containing the circuit diagram and component symbols.
 ### Images
 This is what the rectifier schematic, PCB, and fabricated render look like respectively
 <img width="445" alt="Rectifier_Schematic" src="https://user-images.githubusercontent.com/12982852/218250846-d6c1ccbb-6144-4b61-9f82-97e4a0690177.png">
+
+
 <img width="573" alt="Rectifier_Layout" src="https://user-images.githubusercontent.com/12982852/218250851-652712cb-16c0-47b7-8d9d-1903e1cb13b1.png">
+
+
 <img width="621" alt="Rectifier_3D_Viewer" src="https://user-images.githubusercontent.com/12982852/218250857-7b8aee96-c6ab-4f68-a9f8-e9733ddf2b76.png">
+
+
+This is what the circuit looks like after fabrication!!
+
+![PXL_20230220_063556993 (1)](https://user-images.githubusercontent.com/12982852/220031587-f3b04bf8-7f69-40b4-b03a-acfbdb644b81.jpg)
+
 
 
