@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "resistor_feedthrough")(type "KiCad")(uri "C:/Users/klund/OTS-SAW-Tags/Hardware/lib/OTS_Tag.pretty/resistor_feedthrough.pretty")(options "")(descr ""))
+)
